@@ -1,0 +1,6 @@
+#ifndef C_LEARNING_REPO_LIBRARY_H
+#define C_LEARNING_REPO_LIBRARY_H
+
+void hello(void);
+
+#endif //C_LEARNING_REPO_LIBRARY_H

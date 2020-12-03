@@ -1,0 +1,3 @@
+C:/Users/Liu Ruiping/Documents/tech-learning/c-learning/c-learning-repo/cmake-build-debug/CMakeFiles/c_learning_repo.dir
+C:/Users/Liu Ruiping/Documents/tech-learning/c-learning/c-learning-repo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Liu Ruiping/Documents/tech-learning/c-learning/c-learning-repo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
